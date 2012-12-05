@@ -1,0 +1,5 @@
+# Funnel
+
+A simple script to cycle round tweets sending them.
+
+The first time you run it with new Twitter credentials you must do so interactively so you can authenticate with Twitter. This only needs to be done once. After that you can cron it as necessary.

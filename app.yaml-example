@@ -1,0 +1,8 @@
+---
+key: Your app consumer key here
+secret: Your app consumer secret here
+posts: 
+- This is where you put the tweets you want Funnel to rotate through.
+- Remember that each tweet cannot be more than 140 characters long.
+- You can have as many posts as you like.
+- Funnel will tweet the next one each time it is executed.
